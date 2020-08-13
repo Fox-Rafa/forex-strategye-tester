@@ -1,0 +1,1 @@
+# forex-strategie-tester
